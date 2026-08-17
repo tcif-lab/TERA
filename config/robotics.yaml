@@ -1,0 +1,35 @@
+# TERA experiment configuration — Industrial Robotics (WSDM '27 validation).
+# Copy this file and edit for other domains (see docs/data_preparation.md).
+
+domain: industrial_robotics
+
+# Data paths are resolved relative to the repository root (the directory
+# containing this package). Raw data is NOT distributed with the repository;
+# see docs/data_preparation.md for how to source it.
+data:
+  patents: data/raw/patents.csv           # IncoPat export (see data_preparation.md)
+  standards_dir: data/raw/standards/       # OCR'd standard CSVs
+  tech_categories: config/tech_categories.yaml
+  ipc_routing: config/ipc_routing.csv
+  standards_years: config/standards.csv
+  policies: config/policies.csv
+
+parameters:
+  bm25_k1: 1.5
+  bm25_b: 0.75
+  bootstrap_b: 200
+  pelt_min_size: 2
+  pelt_model: l2
+  granger_max_lag: 3
+  granger_significance: 0.1
+  coint_significance: 0.05
+  tlcc_max_lag: 6
+  policy_windows: [1, 2, 3]
+  jurisdictions:
+    - China
+    - EU
+    - USA
+
+output:
+  results_dir: output/robotics/
+  figures_dir: output/robotics/figures/

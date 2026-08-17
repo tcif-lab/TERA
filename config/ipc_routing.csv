@@ -1,0 +1,102 @@
+ipc,category
+G01S,Sensing & Perception
+G01B,Sensing & Perception
+G06T,Sensing & Perception
+G06V,Sensing & Perception
+H04N,Sensing & Perception
+G01D,Sensing & Perception
+G01J,Sensing & Perception
+G01L,Sensing & Perception
+G01N,Sensing & Perception
+G01C,Sensing & Perception
+G08G,Sensing & Perception
+G05B,Control & Planning
+G05D,Control & Planning
+G05F,Control & Planning
+F15B,Control & Planning
+B25J,Manipulation
+B62D,Mobility & Locomotion
+B60L,Mobility & Locomotion
+B60R,Mobility & Locomotion
+B66F,Mobility & Locomotion
+B66B,Mobility & Locomotion
+F16H,Actuation & Joints
+H02K,Actuation & Joints
+H02P,Actuation & Joints
+F16C,Actuation & Joints
+F16D,Actuation & Joints
+G06F,Human-Robot Interaction
+G06K,Human-Robot Interaction
+G10L,Human-Robot Interaction
+G09B,Human-Robot Interaction
+A61F,Human-Robot Interaction
+G06N,AI & Learning
+G06Q,AI & Learning
+H04L,Communication
+H04W,Communication
+H04Q,Communication
+G08C,Communication
+F16P,Safety & Reliability
+G08B,Safety & Reliability
+G01M,Safety & Reliability
+G01R,Safety & Reliability
+A62C,Safety & Reliability
+A61B,Safety & Reliability
+B23K,Manufacturing & Processing
+B24B,Manufacturing & Processing
+B23Q,Manufacturing & Processing
+B05B,Manufacturing & Processing
+B21D,Manufacturing & Processing
+B29C,Manufacturing & Processing
+B08B,Manufacturing & Processing
+B23P,Manufacturing & Processing
+B22D,Manufacturing & Processing
+B22F,Manufacturing & Processing
+C21D,Manufacturing & Processing
+C23C,Manufacturing & Processing
+B05C,Manufacturing & Processing
+B24C,Manufacturing & Processing
+B26D,Manufacturing & Processing
+B25B,Manufacturing & Processing
+B25H,Manufacturing & Processing
+H01M,Mobility & Locomotion
+H02J,Actuation & Joints
+H02G,Actuation & Joints
+H01B,Actuation & Joints
+H01R,Communication
+H05K,Communication
+H01L,Communication
+B33Y,Manufacturing & Processing
+F16F,Mobility & Locomotion
+F16M,Mobility & Locomotion
+F16L,Mobility & Locomotion
+F16B,Mobility & Locomotion
+G01,Sensing & Perception
+G05,Control & Planning
+B25,Manipulation
+B62,Mobility & Locomotion
+B60,Mobility & Locomotion
+B66,Mobility & Locomotion
+F16,Actuation & Joints
+H02,Actuation & Joints
+G06,AI & Learning
+G10,Human-Robot Interaction
+A61,Human-Robot Interaction
+G09,Human-Robot Interaction
+H04,Communication
+H01,Communication
+H05,Communication
+G08,Safety & Reliability
+G07,Safety & Reliability
+B23,Manufacturing & Processing
+B24,Manufacturing & Processing
+B05,Manufacturing & Processing
+B21,Manufacturing & Processing
+B29,Manufacturing & Processing
+B08,Manufacturing & Processing
+B22,Manufacturing & Processing
+B26,Manufacturing & Processing
+B33,Manufacturing & Processing
+C21,Manufacturing & Processing
+C23,Manufacturing & Processing
+B65,Manufacturing & Processing

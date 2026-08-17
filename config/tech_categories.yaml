@@ -1,0 +1,91 @@
+# TERA technology category taxonomy — Industrial Robotics (WSDM '27 validation)
+# 10 categories informed by ISO 8373:2012, IFR World Robotics, and WIPO IPC.
+# Every category name and scope is traceable to an international classification
+# system (see `source`), rather than researcher discretion.
+#
+# Used by the alignment module to construct bilingual BM25 queries.
+
+categories:
+  - name: "Sensing & Perception"
+    source: "ISO 8373:2012 §3.5; IFR Inspection & Testing"
+    description_en: >-
+      Sensors, computer vision, environment perception, object detection,
+      depth sensing, LiDAR, radar, tactile sensing, force/torque sensing.
+    description_zh: >-
+      传感器 计算机视觉 环境感知 目标检测 深度传感 激光雷达 触觉传感
+
+  - name: "Control & Planning"
+    source: "ISO 8373:2012 §3.6; WIPO IPC Field 5 (Control)"
+    description_en: >-
+      Motion planning, trajectory generation, kinematics, dynamics,
+      PID control, model predictive control, adaptive control, impedance control.
+    description_zh: >-
+      运动规划 轨迹生成 运动学 动力学 控制 自适应控制 阻抗控制
+
+  - name: "Manipulation"
+    source: "ISO 8373:2012 §3.2; IFR Material Handling, Assembly"
+    description_en: >-
+      End effectors, grippers, robotic arms, material handling, pick and place,
+      grasping, object manipulation, dexterous manipulation.
+    description_zh: >-
+      末端执行器 夹爪 机械臂 物料搬运 抓取 灵巧操作
+
+  - name: "Mobility & Locomotion"
+    source: "ISO 8373:2012 §3.3; IFR AGV, Mobile Platforms"
+    description_en: >-
+      Mobile platforms, AGV, navigation, wheeled robots, legged robots,
+      locomotion, autonomous guided vehicles, path planning for navigation.
+    description_zh: >-
+      移动平台 自动导引车 导航 轮式机器人 足式机器人 运动
+
+  - name: "Actuation & Joints"
+    source: "ISO 8373:2012 §3.4; WIPO IPC Field 6 (Mechanical elements)"
+    description_en: >-
+      Actuators, motors, servo drives, harmonic drives, gearboxes,
+      transmission mechanisms, joint design, bearings, reducers.
+    description_zh: >-
+      驱动器 电机 伺服 谐波减速器 齿轮箱 传动 关节 轴承
+
+  - name: "Human-Robot Interaction"
+    source: "ISO/TS 15066:2016; IFR Collaborative Operation"
+    description_en: >-
+      Human-robot collaboration, safety-rated monitored stop, hand guiding,
+      speed and separation monitoring, power and force limiting,
+      user interfaces, teach pendants, gesture recognition.
+    description_zh: >-
+      人机协作 人机交互 示教器 手势识别 安全监控停止
+
+  - name: "AI & Learning"
+    source: "ISO 8373:2012 §3.7; WIPO IPC Field 4 (Computer technology)"
+    description_en: >-
+      Machine learning for planning, reinforcement learning,
+      deep learning for computer vision, autonomous operation,
+      path planning with learning, task and motion planning.
+    description_zh: >-
+      机器学习 强化学习 深度学习 自主运行 智能决策
+
+  - name: "Communication"
+    source: "ISO 8373:2012 §3.8; WIPO IPC Field 13 (Telecommunications)"
+    description_en: >-
+      Industrial communication protocols, OPC UA, EtherCAT, Profinet,
+      data exchange standards, middleware, robot-to-robot communication,
+      cloud connectivity, wireless communication.
+    description_zh: >-
+      工业通信协议 数据交换 中间件 机器人通信 云连接 无线通信
+
+  - name: "Safety & Reliability"
+    source: "ISO 10218-1:2025; ISO 13849-1:2015; WIPO Field 33"
+    description_en: >-
+      Functional safety, risk assessment, protective measures,
+      safety-rated sensors, emergency stop, safety PLC,
+      MTBF, reliability testing, failure analysis, fault tolerance.
+    description_zh: >-
+      功能安全 风险评估 防护措施 紧急停止 安全PLC 可靠性 MTBF 故障分析
+
+  - name: "Manufacturing & Processing"
+    source: "IFR Welding, Dispensing, Machining; WIPO Field 8"
+    description_en: >-
+      Welding, painting, assembly, dispensing, grinding, machining,
+      polishing, cutting, coating, additive manufacturing.
+    description_zh: >-
+      焊接 喷涂 装配 点胶 打磨 加工 抛光 切割 涂覆 增材制造
