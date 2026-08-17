@@ -1,0 +1,11 @@
+category,n_changepoints,±1yr,±2yr,±3yr,window_cv,stable
+Sensing & Perception,7,15,28,40,0.452,False
+Control & Planning,8,15,28,40,0.452,False
+Manipulation,8,15,28,40,0.452,False
+Mobility & Locomotion,6,15,28,39,0.44,False
+Actuation & Joints,7,15,28,40,0.452,False
+Human-Robot Interaction,6,15,28,40,0.452,False
+AI & Learning,5,15,28,40,0.452,False
+Communication,7,15,28,40,0.452,False
+Safety & Reliability,6,15,28,40,0.452,False
+Manufacturing & Processing,8,15,28,40,0.452,False

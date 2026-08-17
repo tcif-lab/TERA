@@ -1,0 +1,13 @@
+{
+  "n_standards_original": 57,
+  "n_standards_iso_added": 16,
+  "n_standards_ieee_added": 12,
+  "n_standards_total": 85,
+  "n_policy_cn": 17,
+  "n_policy_eu": 7,
+  "n_policy_us": 4,
+  "n_policy_total": 28,
+  "std_yearly_active_years": 18,
+  "causal_cointegrated": 0,
+  "causal_granger": 0
+}

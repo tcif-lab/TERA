@@ -1,0 +1,11 @@
+category,cointegrated,granger_causal,tlcc_corr,tlcc_lag,pattern
+Sensing & Perception,False,True,0.702,0,decoupled (no coint)
+Control & Planning,False,True,0.571,0,decoupled (no coint)
+Manipulation,False,True,0.714,0,decoupled (no coint)
+Mobility & Locomotion,False,True,0.582,0,decoupled (no coint)
+Actuation & Joints,False,False,0.639,0,decoupled (no coint)
+Human-Robot Interaction,False,True,0.74,0,decoupled (no coint)
+AI & Learning,False,True,0.715,1,decoupled (no coint)
+Communication,False,True,0.754,0,decoupled (no coint)
+Safety & Reliability,False,True,0.691,0,decoupled (no coint)
+Manufacturing & Processing,False,True,0.746,0,decoupled (no coint)

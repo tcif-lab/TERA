@@ -1,0 +1,11 @@
+category,n_obs,max_lag,n_params_per_eq,n_eff_obs,ratio,status
+Sensing & Perception,48,3,7,45,6.4,marginal (5:1 - 10:1)
+Control & Planning,48,3,7,45,6.4,marginal (5:1 - 10:1)
+Manipulation,48,3,7,45,6.4,marginal (5:1 - 10:1)
+Mobility & Locomotion,48,3,7,45,6.4,marginal (5:1 - 10:1)
+Actuation & Joints,48,3,7,45,6.4,marginal (5:1 - 10:1)
+Human-Robot Interaction,48,3,7,45,6.4,marginal (5:1 - 10:1)
+AI & Learning,48,3,7,45,6.4,marginal (5:1 - 10:1)
+Communication,48,3,7,45,6.4,marginal (5:1 - 10:1)
+Safety & Reliability,48,3,7,45,6.4,marginal (5:1 - 10:1)
+Manufacturing & Processing,48,3,7,45,6.4,marginal (5:1 - 10:1)

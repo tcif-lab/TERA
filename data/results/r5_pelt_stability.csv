@@ -1,0 +1,11 @@
+category,n_penalties,cp_counts_range,modal_cp_count,n_agree_on_mode,mean_year_jaccard,stable
+Sensing & Perception,3,7-7,7,3,1.0,True
+Control & Planning,3,8-8,8,3,1.0,True
+Manipulation,3,8-8,8,3,1.0,True
+Mobility & Locomotion,3,6-6,6,3,1.0,True
+Actuation & Joints,3,7-8,7,2,0.917,False
+Human-Robot Interaction,3,6-7,6,2,0.905,False
+AI & Learning,3,4-5,5,2,0.867,False
+Communication,3,7-7,7,3,1.0,True
+Safety & Reliability,3,5-6,6,2,0.889,False
+Manufacturing & Processing,3,8-8,8,3,1.0,True

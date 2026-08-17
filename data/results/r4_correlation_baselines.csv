@@ -1,0 +1,11 @@
+category,n_obs,pearson_r,pearson_p,spearman_rho,spearman_p
+Sensing & Perception,48,0.702,0.0,0.727,0.0
+Control & Planning,48,0.571,0.0,0.723,0.0
+Manipulation,48,0.714,0.0,0.717,0.0
+Mobility & Locomotion,48,0.582,0.0,0.697,0.0
+Actuation & Joints,48,0.639,0.0,0.707,0.0
+Human-Robot Interaction,48,0.74,0.0,0.727,0.0
+AI & Learning,48,0.642,0.0,0.722,0.0
+Communication,48,0.754,0.0,0.705,0.0
+Safety & Reliability,48,0.691,0.0,0.708,0.0
+Manufacturing & Processing,48,0.746,0.0,0.722,0.0
