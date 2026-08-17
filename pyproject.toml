@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tera"
+version = "1.0.0"
+description = "TERA: Temporal Evolution and Relationship Alignment for Heterogeneous Technology Knowledge Mining"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "TERA Contributors" },
+]
+keywords = ["technology mining", "cross-source alignment", "temporal evolution", "change-point detection", "patent analysis"]
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+dependencies = [
+    "numpy",
+    "pandas",
+    "scipy",
+    "scikit-learn",
+    "statsmodels",
+    "ruptures",
+    "sentence-transformers",
+    "matplotlib",
+    "PyYAML",
+    "python-docx",
+]
+
+[project.urls]
+Homepage = "https://github.com/tcif-lab/TERA"
+
+[tool.setuptools]
+packages = ["tera"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,11 @@
+# Runtime dependencies (versions used to produce the WSDM '27 results)
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.8.0
+statsmodels==0.14.6
+ruptures==1.1.10
+sentence-transformers==5.4.1
+matplotlib==3.10.8
+PyYAML==6.0.2
+python-docx==1.2.0

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "TERA: Temporal Evolution and Relationship Alignment for Heterogeneous Technology Knowledge Mining"
+type: software
+authors:
+  - family-names: Govindarajan
+    given-names: Usharani Hareesh
+    affiliation: "University of Shanghai for Science and Technology"
+  - family-names: Yeh
+    given-names: "Geng-Hui (Sylas)"
+    affiliation: "Harbin Institute of Technology"
+  - family-names: Narang
+    given-names: Gagan
+    affiliation: "Università Politecnica delle Marche"
+  - family-names: Mancini
+    given-names: Adriano
+    affiliation: "Università Politecnica delle Marche"
+year: 2027
+license: MIT
+repository-code: "https://github.com/Yeaghui/TERA"
+url: "https://github.com/Yeaghui/TERA"
+keywords:
+  - technology mining
+  - cross-source alignment
+  - temporal evolution
+  - change-point detection
+  - patent analysis
